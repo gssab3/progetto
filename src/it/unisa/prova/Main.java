@@ -1,7 +1,9 @@
 package it.unisa.prova;
 
-public class MainClass {
+public class Main {
+
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("S");
 	}
+
 }
